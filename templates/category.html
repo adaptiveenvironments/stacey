@@ -25,7 +25,6 @@
 			
 			  {% set formerYear = -1 %}	
 			  {% for child in sortbydate(page.children , 'date') %}
-			     {% if "Featured" in child.tags %}
 					{% if child.date | date("Y") != formerYear %}
 						{% if formerYear > 0 %}
 			<hr/>
@@ -69,7 +68,6 @@
 					<br/>&nbsp;</small></p>
 				</div>
 			</div>
-    			  {% endif %}
 			  {% endfor %}
 
 	      <hr/>
