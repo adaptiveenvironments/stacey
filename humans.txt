@@ -3,7 +3,8 @@
 
 # TEAM
 
-    ole kristensen -- content and programming -- @olefab
+    ole kristensen -- programming -- @olefab
+    hugo mulder -- content
 
 # THANKS
 

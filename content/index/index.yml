@@ -1,18 +1,18 @@
 title: Home
-column1button: Featured Projects
-column1url: projects
+column1button: The Æ research group
+column1url: æ
 column1text: |
- ## Projects
- A selection of student projects and research from Intermedia Lab.
+ ## Æ
+ A description of the research group.
 
 column2button: Some of us
 column2url: people
 column2text: |
  ## People
- Quite a few people make use of Intermedia Lab, but here's the core team.
+ These are the people that regularly take part in the activities of the research group.
 
-column3button: The lab
-column3url: lab
+column3button: Featured Projects
+column3url: projects
 column3text: |
- ## Lab
- Have a look at the space and what facillities it offers.
+ ## Projects
+ Some past and current projects of the research group.

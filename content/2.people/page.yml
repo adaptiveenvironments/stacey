@@ -6,19 +6,40 @@ content: |
  <p>&nbsp;</p>
  <div class="row">
  	<div class="span4">
- 		<img src="/render/w-h300-c1:1-q80/2.people/kynp.jpg" class="featurette-image img-circle pull-right" style="width:200px;">	
+ 		<img src="/render/w-h300-c1:1-q80/2.people/kynp.png" class="featurette-image img-circle pull-right" style="width:200px;">	
  	</div>
  	<div class="span8">
  		<h2>Kjell Yngve Petersen</h2>
- 		<p class="lead">Section Head, CAOS</p>
+ 		<p class="lead">Section Head, InterSection</p>
  		<address>
  			<strong>Email</strong><br/>
  			<a href="mailto:kynp@itu.dk">kynp@itu.dk</a>
  		</address>
  		<p class="muted">
- Kjell Yngve Petersen received his Ph.D at CAiiA – Center for Advanced Inquiry in Integrative Arts, Planetary Collegium, University of Plymouth, UK, 2009. He is trained as actor and theatre director, and has produced theatre, opera, performance art, installations arts and media arts since the early 1980’s. Research interests include in the composition and design of intermedial performances and participatory installations, with special interest in real-time generative situations and mixed online/offline environments in which the audience takes part in performing the artwork. The research has specific focus on the development of new compositional model that integrate telemedia technology, and utilises emergent and performance-based methods to explore new performance forms and expressions. The research engages with telepresence and tele-ecologies, and involves design of dynamic adaptive architectural light, and acoustic and visual interface ecologies.
-
-
+ 	   		Dr. Kjell Yngve Petersen is trained as actor and theatre director, and has produced theatre, opera, performance art, installations arts and media arts since the early 1980s 
+ 			<br><br>
+ 			Research interests include the composition and design of intermedial performances and participatory installations, with special interest in real-time generative situations and mixed online/offline environments in which the audience takes part in performing the artwork. His research has specific focus on the development of new compositional models that integrate telemedia technology, and utilises emergent and performance-based methods to explore new performance forms and expressions. His research engages with telepresence and tele-ecologies, and involves the design of dynamic adaptive architectural light, textures and acoustics. The research also involves close cooperation with industry sectors, and international partners within research, arts and industry.
+ 		</p>
+ 	</div>
+ </div>
+ <p>&nbsp;</p>
+ <div class="row">
+ 	<div class="span4">
+ 		<img src="/render/w-h300-c1:1-q80/2.people/lbel.jpg" class="featurette-image img-circle pull-right" style="width:200px;">	
+ 	</div>
+ 	<div class="span8">
+ 		<h2>Laura Beloff</h2>
+ 		<p class="lead">Section Head, Culture and Games</p>
+ 		<address>
+ 			<strong>Email</strong><br/>
+ 			<a href="mailto:lbel@itu.dk">lbel@itu.dk</a>
+ 		</address>
+ 		<p class="muted">
+ 			With acclaimed international reputation as an artist, Laura Beloff’s artistic works can be described as peculiar wearable objects, programmed structures and participatory, networked installations. Many of her works deal with individuals in the global society trying to adapt to highly complex technologically enhanced world, which is becoming increasingly mobile. Beloff has exhibited widely in museums, galleries and media-art events in Europe and worldwide, recently f.e. in the Venice Biennale 2007, and in Brazil 2008. She is frequently lecturing about her research and practice in universities and various conferences. 
+ 			<br><br>
+ 			2002-06 she was Professor for media arts at the Art Academy in Oslo, Norway. 
+ 			<br><br>
+ 			2007-11 she was awarded a five-year grant by the Finnish state.
  		</p>
  	</div>
  </div>
@@ -37,11 +58,19 @@ content: |
  			<a href="http://ole.kristensen.name">http://ole.kristensen.name</a>
                 </address>
                 <p class="muted">
- Ole Kristensen is a visual artist, programmer and scenographer. At the intersection of art and science he develops and appropriates new technology, creating works with software at the core.
- His work ranges from stage performances and modern dance to large scale interactive installations. In his work he focuses on the behavioural aspects of interactivíty, adaptivity, and generativity.
- He is driven by a playful urge to connect electronics, gadgets, visuals and moving objects in seemingly impossible combinations. Through his visual arts practice he has gained knowledge in diverse fields within engineering and programming.
- He is working in the dance company <a href="http://recoil-performance.org">Recoil Performance Group</a> and the performance group <a href="http://in-transit.org">IN-TRANSIT</a>.
-                </p>
+ 			   		Ole Kristensen is a visual artist, programmer and scenographer. At the intersection of art and science he develops and appropriates new technology, creating works with software at the core.
+ 				   	His work ranges from stage performances and modern dance to large scale interactive installations. In his work he focuses on the behavioural aspects of interactivíty, adaptivity, and generativity.
+ 				   	He is driven by a playful urge to connect electronics, gadgets, visuals and moving objects in seemingly impossible combinations. Through his visual arts practice he has gained knowledge in diverse fields within engineering and programming.
+ 				   	<br><br>
+ 				   	He is working in the dance company Recoil Performance Group and the performance groupIN-TRANSIT.
+ 				   	He is researching, teaching and giving workshops at the Danish National School of Performing Arts, The Royal Danish Academy of Fine Arts Schools of Architecture, Design and Conservation (KADK), and The IT University of Copenhagen.
+ 				   	<br><br>
+ 				   	Selected exhibitions and performances include Click Festival (Elsinore), Renew Festival (Copenhagen), New Media Days (Norrköping), ZKM (Karlsruhe), Dansehallerne (Copenhagen), Interarte Festival (Rio de Janiero), Nikolaj Kunsthal / Copenhagen Contemporary Art Center, Roskilde Festival and more.
+ 				   	His work in Recoil Performance Group has twice received the National Danish Theare Award for best Dance Performance.
+ 				   	From an early age Ole was driven by his fascination of Graphic Design. Much of his childhood in the rural town of Ringsted was spent in front of the screen doing elaborate typographic designs and programming intricate menu systems.
+ 				   	<br><br>
+ 				   	He was already working artisticly when he finished a BSc in Computer Science and Communications at Roskilde University in 2000. His projects had transformed into large scale immersive installations in the university’s television studio. From there on he continued into visual arts, installation and performance via guest studies at the Art and Technology master at Chalmers University in Gothenburg and the Halfmachine festivals in Christiania.
+                 </p>
         </div>
  </div>
  <p>&nbsp;</p>
@@ -51,17 +80,104 @@ content: |
         </div>
         <div class="span8">
                 <h2>Cameline Bolbroe</h2>
-                <p class="lead">Ph. D. Fellow</p>
+                <p class="lead">PhD Fellow</p>
                 <address>
                         <strong>Email</strong><br/>
                         <a href="mailto:camb@itu.dk">camb@itu.dk</a><br/>
                 </address>
                 <p class="muted">
- Cameline Bolbroe is a Ph.D. Fellow at the IT University of Copenhagen where she conducts explorative research in adaptive architecture.
- Her research explores the potentials of architectural design that support adaptivity in relation to human experience and design process artefacts.
- Of particular interest is the development of design methods and design thinking of experential qualities in architectural design that shows the capability to modify to change in the environment and incorporate new parameters from the environment.
- Also her research involves the making of of full scale prototypes orchestrated as design development tools and/or adaptive experential environments that explores these features.
- Cameline has a proffessional transdiscplinary background within architectural design and computer science as well as she has run her own company for several years in the intersection of art and the architecture. 
+ 			   		Cameline Bolbroe works at the IT University of Copenhagen where she is a Ph.D. Fellow in the Adaptive Environments Research Group. Here she conducts explorative practice-based research in adaptive architecture and teaches in digital aesthetics. Typically her research revolves around the making of full-scale prototypes orchestrated both as design development tools and experiential environments.
+ 					<br><br>
+ 				  	For several years she has been a private contractor in the intersection between liberal arts and architecture. Here she has engaged in collaborations with a broad variety of architectural professionals and artists – involving all from devising artist’s tools from broom heads to residential architecture in central London, UK.
+ 				   	<br><br>
+ 				   	In the capacity of founder Cameline facilitated the cross-disciplinary collaboration BlankBanquet expanding from the fields of art, dance, musical composition, performance, architecture, art history and computer science. Utilising their diverse expertise they held workshops, initiated urban interventions and developed interactive performances.
+ 				   	<br><br>
+ 				   	Cameline has a trans-disciplinary educational background in architectural design from The Royal Danish Academy of Fine Arts, School of Architecture and in digital aesthetics from The IT University of Copenhagen.
+                </p>
+        </div>
+ </div>
+ <p>&nbsp;</p>
+ <div class="row">
+        <div class="span4">
+                <img src="/render/w-h300-c1:1-q80/2.people/hugm.png" class="featurette-image img-circle pull-right" style="width:200px;">
+        </div>
+        <div class="span8">
+                <h2>Hugo Mulder</h2>
+                <p class="lead">PhD Fellow</p>
+                <address>
+                        <strong>Email</strong><br/>
+                        <a href="mailto:hugm@itu.dk">hugm@itu.dk</a><br/>
+                </address>
+                <p class="muted">
+ 			   		Before joining the Adaptive Environments research group at the ITU in 2013, Hugo worked as a senior engineer in Arup’s Advanced Technology + Research group in London where he was part of a specialist team that dealt with the design of movable structures in architecture. He was involved in the design of retractable stadium roofs, great observation wheels, transformable facade systems and dynamic art sculptures. Because kinetic systems require a-typical design tools Hugo develops and adapts computational techniques for dynamic problem solving and design collaboration. Since he joined Arup in 2002 Hugo has worked on various projects including the Public Library in Amsterdam, the European Extremely Large Telescope enclosure design in Chile, the Las Vegas High Roller observation wheel and the Qatar National Museum. Hugo graduated with honours from TU Delft in 2003.
+ 				   	<br><br>
+ 				   	Hugo held lectures and assisted architects and engineering students at various schools and universities and has been part of the organisational team of Smartgeometry in 2010, 2011 and 2012.
+ 				   	<br><br>
+ 				   	At the ITU Hugo will conduct research where the fields of design modelling and physical computing touch: the well established practice of Building Information Modelling requires extensions to reach further into the operational phase of buildings and the built environment at the same time lacks the methods and properties that make their digital counterparts rich in searchable and connected information.
+                 </p>
+        </div>
+ </div>
+ <p>&nbsp;</p>
+ <div class="row">
+        <div class="span4">
+                <img src="/render/w-h300-c1:1-q80/2.people/kacl.jpg" class="featurette-image img-circle pull-right" style="width:200px;">
+        </div>
+        <div class="span8">
+                <h2>Katrine Lund</h2>
+                <p class="lead">Research Coordinator</p>
+                <address>
+                        <strong>Email</strong><br/>
+                        <a href="mailto:kacl@itu.dk">kacl@itu.dk</a><br/>
+                </address>
+                <p class="muted">
+ 			   		Katrine is an anthropologist specialised in globalisation and development. She conducted her fieldwork in China and has an interest in social and human adaptation to changing environments.
+ 					<br><br>
+ 				   	Currently she organises and coordinates research meetings and public lectures at ITU. She is part of a production team of ongoing research and is an administrator of various research projects investigating adaptive lighting and Art & Science.
+ 				   	<br><br>
+ 				   	Her research interests are:<br>
+ 					Robotics<br>
+ 				   	Human-Robot Interaction<br>
+ 				   	Welfare Technology<br>
+ 				   	Artificial Intelligence<br>
+ 				   	Cultural diversity<br>
+ 				   	Gender and Society<br>
+ 				   	Art & Science<br>
+ 				   	Science and Technology Studies<br>
+                </p>
+        </div>
+ </div>
+ <p>&nbsp;</p>
+ <div class="row">
+        <div class="span4">
+                <img src="/render/w-h300-c1:1-q80/2.people/jrnl.jpg" class="featurette-image img-circle pull-right" style="width:200px;">
+        </div>
+        <div class="span8">
+                <h2>Jørn Lambertsen</h2>
+                <p class="lead">Research Assistant</p>
+                <address>
+                        <strong>Email</strong><br/>
+                        <a href="mailto:jrnl@itu.dk">jrnl@itu.dk</a><br/>
+                </address>
+                <p class="muted">
+ 				Jørn is trained as an architect with a focus on large scale buildings and urban planning, and has a diverse background in the visual arts.<br><br>
+ 				In the Adaptive Environments Group Jørn is working on adaptive lighting and architecture, dealing with the practical aspects of prototype building, robotics, 3D-modelling and printing as well as lighting simulation.
+                </p>
+        </div>
+ </div>
+ <p>&nbsp;</p>
+ <div class="row">
+        <div class="span4">
+                <img src="/render/w-h300-c1:1-q80/2.people/lucb.png" class="featurette-image img-circle pull-right" style="width:200px;">
+        </div>
+        <div class="span8">
+                <h2>Lucien Bobo</h2>
+                <p class="lead">Intern</p>
+                <address>
+                        <strong>Email</strong><br/>
+                        <a href="mailto:lucb@itu.dk">lucb@itu.dk</a><br/>
+                </address>
+                <p class="muted">
+                Lucien is a guest researcher at Adaptive Environments for the year 2014/15. This year takes place between the first and the second years of his master’s degree. He is a former student of IUT de Cachan and École Normale Supérieure de Cachan, in Paris area, where he was studying Electrical Engineering. At Æ, he is working on the behavorial aesthetics of adaptive lighting setups.
                 </p>
         </div>
  </div>
