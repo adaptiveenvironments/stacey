@@ -1,0 +1,64 @@
+title: Smartgeometry # This is a comment
+
+date: 2014-07-14  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+homepage: http://www.smartgeometry.org
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Cameline Bolbroe
+   mail: camb@itu.dk
+   role: Cluster Champion # eg. Master Student, Advisor, Assistant
+ -
+   name: Hugo Mulder
+   mail: hugm@itu.dk
+   role: Cluster Champion # eg. Master Student, Advisor, Assistant
+ -
+   name: Kjell Yngve Petersen
+   mail: kyno@itu.dk
+   role: Cluster Champion # eg. Master Student, Advisor, Assistant
+ -
+   name: Francesco Anselmo
+   mail: francesco.anselmo@arup.com
+   role: Cluster Champion # eg. Master Student, Advisor, Assistant
+ -
+   name: Tina Harrington
+   role: Research Assistant # eg. Master Student, Advisor, Assistant
+ -
+   name: Jørn Lambertsen
+   mail: jrnl@itu.dk
+   role: Research Assistant # eg. Master Student, Advisor, Assistant
+
+credits: # a list of [name:]s that should be credited [for:] something, just delete the tag and the list if not relevant. This could be sponsoring companies, partners or the photograper.
+ -
+   name: Someone 
+   for: Something
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - Workshop
+ - Research
+ - Architecture
+ - Featured
+
+materials: # just the stuff that went into making the project
+ - foam
+ - Games on Track
+
+summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
+  The Æ research group in collaboration with Arup hosted a cluster workshop about experiencing architecture. The cluster, Spaces in Experience explored human experience in relation to adaptive environments through experiential sketching: a combination of actor training, people tracking, physical modelling and augmented reality.
+  
+abstract: | # Max 150 words - is shown on website
+  Smartgeometry is an international organisation that brings together practitioners, researchers and students from architecture, engineering and other fields related to the design of the built environment. This year the Smartgeometry conference took place at the Chinese University of Hong Kong. The event was organised around the theme of Urban Compaction and consisted as in previous years of a four-day intensive workshop followed by two days of presentations and debate.
+  <h5>Urban Compaction</h5>
+  The conference theme Urban compaction requires us to rethink how we use and conceive of space. The need to build higher and at increased complexity challenges how we design inhabitable spaces. This challenge provides an interesting opportunity to think about environments that are adaptive: Space that in real-time negotiates dynamic relations with the occupants that it accommodates. This cluster will explore and develop the experience of spaces that can be manipulated in real-time and at 1:1 scale.
+  <br><br>
+  During the workshop an experiential full scale spatial setup was provided, which functioned as a design sketching tool for the investigations. Framing experience as the awareness of how we perceive the dynamic relationship between occupant, space and technology, performative arts approaches were applied such as rehearsing scenarios from different user perspectives. Participants got the opportunity to modify and reconfigure the spatial setup in order to collaboratively challenge architectural design in relation to experience of space over time. While we pursued to collaboratively assess, develop and stage new possible understandings of spaces of change, the cluster provided participants with a developed understanding of how experience deliberately can be used as an active design parameter. This forms an important basis for a conceptual framework that can inform a new adaptive architectural literacy.
+
+legal: 
+ - copyright: # the name of the formal copyright holder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   

@@ -1,0 +1,56 @@
+title: Experiences and qualities of LED # This is a comment
+
+date: 2012-06-01  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+homepage: http://CHANGEME.dk
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Kjell Yngve Petersen
+   mail: user@server.domain
+   role: Role # eg. Master Student, Advisor, Assistant
+ -
+   name: Karin Sondergaard
+   mail: user@server.domain
+   role: Role # eg. Master Student, Advisor, Assistant
+
+credits: # a list of [name:]s that should be credited [for:] something, just delete the tag and the list if not relevant. This could be sponsoring companies, partners or the photograper.
+ -
+   name: Someone 
+   for: Something
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - PhD Project
+ - Research
+ - Architecture
+ - Software
+ - Featured
+
+materials: # just the stuff that went into making the project
+ - arduino
+ - wood
+ - computer
+
+summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
+  The project investigates what new forms and qualities of light emerge from technologies such as LED, with a particular focus on basic form qualities and parameters. Existing linear functional understandings of the relation between light source, light flow, reflection and visibility is challenged by relational understandings, where the materiality and visibility of the light emerge through mutual influences between several adaptive and transformative elements.
+abstract: | # Max 150 words - is shown on website
+  The project investigates what new forms and qualities of light emerge from technologies such as LED, with a particular focus on basic form qualities and parameters. Existing linear functional understandings of the relation between light source, light flow, reflection and visibility is challenged by relational understandings, where the materiality and visibility of the light emerge through mutual influences between several adaptive and transformative elements.
+  <br><br>
+  This is a three-year interdisciplinary research project (2012-2015) into new models and design parameters relative to the impact of LED technology. The starting point is explorations into the experience of light qualities, starting with the pixel as an element in-between light as lighting and light as mediation of imagery. The explorative prototyping processes engage with the identification of relations between light and imagery in the scale of pixels. Key parameters identified and discussed are: resolution and diffusion, forms of order, and change of scale.
+  <br><br>
+  The project develops on qualitative parameters of experience and parametric software models in an attempt to propose new analytic and generative approaches to light relative to the impact of LED technology. The suggestion is that a new correlated set of parameters and models, build within the context and reference to previous parameters and models, will allow for exploring the new possibilities emerging from the impact of LED technology.
+  <br><br>
+  The investigations are separated into three sub-projects, each working in a scale of attention, micro scale (LED as materiality and part of pixel system), medium scale (LED as integrated in spatial design), and macro scale (LED as component in city scape and media facades)
+  <h5>LED as light material</h5>
+  LED is characterized by unique material and experiential qualities, which will demand new strategies for lighting design. LED challenge the understanding of the flux of light from a light source, to reflections, to the lit surfaces. LED can be embedded and distributed as lightness and light reflections without a primary light source. LED can emit as distributed lightness, which previously was analysed as reflections, but with LED established in the reflection material as lightness. LED is an element in an electronic environment and as such LED can act as both light giver and image creator, give shadow and reflection, and be responsive and adaptive, and as such enhance the relation between imagery and light formation, and achieve to make parameters such as diffusion and resolution, shadowing and scale, clearly sensible as light forms. These are qualities that potentially can be utilized in greater detail with LED, but need to be identified and explored through prototyping and development of theoretical framework, new models and parameters, to be able to integrate in reflexive lighting design and analysis. Methods of investigation The project is highly interdisciplinary and driven by artistic explorations based on practice-led experiential stagings and performance methods of analysis.
+  <h5>How we explore</h5>
+  The explorative methods are used to unpack into parametric models, interwoven scales that resides in form-structures and operations, in-between the concrete design and the experiential qualities. We use explorative iterative design methods to refine our intents into simple exemplary prototypes. These exemplary stagings are ‘experiential evidence’, that is, installations that explicitly situate the experiencer in a refined observation of a particular phenomenon. The experiential qualities are influences both from outer design characteristics and from perceptual qualities, which is experienced through performing ones own experience in a controlled and analytic manner. The parameters investigated are as such a consequence of a process of experiencing rather than observable features attached to the light phenomena themselves.
+
+legal: 
+ - copyright: # the name of the formal copyright holder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   

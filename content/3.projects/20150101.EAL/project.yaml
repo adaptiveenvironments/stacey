@@ -1,0 +1,52 @@
+title: Energy optimisation through adaptive lighting control # This is a comment
+
+date: 2015-01-01  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+homepage: http://adaptive.itu.dk
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Kjell Yngve Petersen
+   mail: kynp@itu.dk
+   role: Project Manager # eg. Master Student, Advisor, Assistant
+ -
+   name: Ole Kristensen
+   mail: olek@itu.dk
+   role: Role # eg. Master Student, Advisor, Assistant
+ -
+   name: Jørn Lambertsen
+   mail: jrnl@itu.dk
+   role: Role # eg. Master Student, Advisor, Assistant
+
+credits: # a list of [name:]s that should be credited [for:] something, just delete the tag and the list if not relevant. This could be sponsoring companies, partners or the photograper.
+ -
+   name: Someone 
+   for: Something
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - PhD Project
+ - Research
+ - Architecture
+ - Featured
+
+materials: # just the stuff that went into making the project
+ - arduino
+ - wood
+ - computer
+
+summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
+  Adaptive lighting control integrates user scenarios, daylight variations and architectural qualities in the design of light and controlsystems. The project develops adaptive lighting technology, lighting design methods and sketch tools for testing the adaptive lighting design
+abstract: | # Max 150 words - is shown on website
+  Adaptive lighting integrates user scenarios, daylight variations and architectural qualities in the design of light and controlsystems. The project works with issues involving the following PSO 2015 focus areas: energy efficiency of existing buildings, with a focus on lighting, through the involvement of (3a) LED lighting and (3b) Control and regulation of light. The project contributes to the development of  functional and well-designed adaptive lighting solutions, which dynamically regulates the intensity and color composition of light with individual and place-specific solutions. A special focus will be on solutions that integrate daylight as a formative parameter of the adaptive lightcontrol.
+  <br>
+  Adaptive lighting design<br>
+  The new possibilities offered is adaption seen from the consumer's perspective: that the environment adapts to the personal wishes and needs, and that this is done within the framework of architectural lighting design that takes into account the energy consumption. The project develops sketch tools that can facilitate the design considerations across the value chain, and enable exchange and cooperation through the design of concrete adaptive installations and analysis of user behaviour. The project will contribute to improve the development of adaptive lighting design, providing knowledge and tools to enhance adaptive design qualities.
+
+legal: 
+ - copyright: # the name of the formal copyright holder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   
