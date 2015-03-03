@@ -1,7 +1,7 @@
-# intermedia.itu.dk
+# adaptive.itu.dk
 
 ## A forked Stacey 3.0 with Bootstrap
-This is the homepage for the Intermedia Lab at the IT University of Copenhagen [intermedia.itu.dk](http://intermedia.itu.dk), that integrates the Twitter Bootstrap with the excellent Staceyapp template system.
+This is the homepage for the Adaptive Environments group at the IT University of Copenhagen [adaptive.itu.dk](http://adaptive.itu.dk), that integrates the Twitter Bootstrap with the excellent Staceyapp template system.
 
 It's a databaseless portfolio for our works, feel free to get inspired and roll your own from here.
 
