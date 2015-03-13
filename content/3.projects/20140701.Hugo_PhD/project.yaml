@@ -1,0 +1,34 @@
+title: Design of the Adaptive Built Environment # This is a comment
+
+date: 2014-07-01  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+homepage: http://hugm.wikit.itu.dk
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Hugo Mulder
+   mail: hugm@itu.dk
+   role: PhD Fellow # eg. Master Student, Advisor, Assistant
+   
+photocredits: Hugo Mulder
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - PhD Project
+ - Architecture
+ - Engineering
+ - Featured
+
+summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
+  This PhD explores the design of kinetic architecture in the context of the adaptive built environment. 
+  
+abstract: | # Max 150 words - is shown on website
+  The PhD project investigates how computational paradigms such as generative design and artificial intelligence have the persistence to outlive the design stage of architectural and engineering practice. With the standardisation of Building Information Modelling, and the significance these models gain in the operational stage of the built environment the transition from abstract design to concrete reality has become a continuing dialogue. This means not only that the chronological order of traditional phases such as design, construction and built is put to question, but also that the relations between Designers, Users and Systems could be redefined. Supporting trends are the infusion of information technology in the fabric of every-day life, the sophistication of building technology and modern fabrication techniques that allow for mass-customisation of building components, and consequently for individually tailored architecture. 
+
+legal: 
+ - copyright: Hugo Mulder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   
