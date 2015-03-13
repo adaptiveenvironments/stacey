@@ -29,20 +29,12 @@ participants: # a list of elements with each three attributes; [name:], [mail:] 
    mail: jrnl@itu.dk
    role: Research Assistant # eg. Master Student, Advisor, Assistant
 
-credits: # a list of [name:]s that should be credited [for:] something, just delete the tag and the list if not relevant. This could be sponsoring companies, partners or the photograper.
- -
-   name: Someone 
-   for: Something
+photocredits: Jessica Lai, Tina Harrington, Cameline Bolbroe
 
 tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
  - Workshop
- - Research
  - Architecture
  - Featured
-
-materials: # just the stuff that went into making the project
- - foam
- - Games on Track
 
 summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
   The Æ research group in collaboration with Arup hosted a cluster workshop about experiencing architecture. The cluster, Spaces in Experience explored human experience in relation to adaptive environments through experiential sketching: a combination of actor training, people tracking, physical modelling and augmented reality.

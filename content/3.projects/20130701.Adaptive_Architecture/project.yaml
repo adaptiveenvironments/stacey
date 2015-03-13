@@ -10,22 +10,12 @@ participants: # a list of elements with each three attributes; [name:], [mail:] 
    mail: camb@itu.dk
    role: PhD Fellow # eg. Master Student, Advisor, Assistant
 
-credits: # a list of [name:]s that should be credited [for:] something, just delete the tag and the list if not relevant. This could be sponsoring companies, partners or the photograper.
- -
-   name: Someone 
-   for: Something
+photocredits: Cameline Bolbroe
 
 tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
  - PhD Project
- - Research
  - Architecture
- - Software
  - Featured
-
-materials: # just the stuff that went into making the project
- - arduino
- - wood
- - computer
 
 summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
   Practice-based research in architecture provisioned with software that has the capability to modify to change in the environment and incorporate new parameters from the environment. As new architectural design practices emerging from this development, what are the implications this has on the built environment and our spatial experiences?

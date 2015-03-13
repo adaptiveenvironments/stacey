@@ -20,16 +20,9 @@ credits: # a list of [name:]s that should be credited [for:] something, just del
    for: Something
 
 tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
- - PhD Project
- - Research
+ - Lighting
  - Architecture
- - Software
  - Featured
-
-materials: # just the stuff that went into making the project
- - arduino
- - wood
- - computer
 
 summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
   The project investigates what new forms and qualities of light emerge from technologies such as LED, with a particular focus on basic form qualities and parameters. Existing linear functional understandings of the relation between light source, light flow, reflection and visibility is challenged by relational understandings, where the materiality and visibility of the light emerge through mutual influences between several adaptive and transformative elements.
