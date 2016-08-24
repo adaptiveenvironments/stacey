@@ -1,0 +1,51 @@
+title: Into a Mapping of Copenhagen Street Lighting # This is a comment
+
+date: 2015-04-30  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Claus Asp
+   mail: user@server.domain
+   role: Lighting designer # eg. Master Student, Advisor, Assistant
+ -
+   name: Jesper Kongshaug 
+   mail: user@server.domain
+   role: Lighting designer # eg. Master Student, Advisor, Assistant
+ - 
+   name: Katja Bülow
+   mail: user@server.domain
+   role: Researcher # eg. Master Student, Advisor, Assistant
+ - 
+   name: Thyge Währens
+   mail: user@server.domain
+   role: Research assistant # eg. Master Student, Advisor, Assistant
+ - 
+   name: Flora F. E. Brandt
+   mail: user@server.domain
+   role: Research assistant # eg. Master Student, Advisor, Assistant
+
+photocredits: Claus Asp # a list of [name:]s that should be credited [for:] something, just delete the tag and the list if not relevant. This could be sponsoring companies, partners or the photograper.
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - LED
+ - Research
+ - Featured
+ - Architecture
+ - Urban Lighting
+
+summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
+  This project about the use of LED in Copenhagen’s urban lighting is one of four that were conducted as part of the project entitled LED Lighting; Interdisciplinary LED Lighting Research. The research project has been a three-year collaboration between The Royal Danish Academy of Fine Arts; Schools of Architecture, Design and Conservation and The IT University of Copenhagen.
+
+abstract: | # Max 150 words - is shown on website
+  In this project, we have taken an interest in the increasing use of LEDs as a light source in urban spaces, and the ways that the application of LEDs in the city’s street lighting will shape the experience of the street. The studies are based on a mapping of the street lighting in the Municipality of Copenhagen as it existed in the early summer of 2014. The results are considered as a kind of overview and conservation of Copenhagen’s street lighting as it existed during the project in order to discuss the importance of the next initiatives to be undertaken using LEDs. 
+  In connection with the work undertaken throughout the project, we would like to thank Professor of the Technical Coordinator of Lighting at the Municipality of Copenhagen, Thomas Maare, Professor of Urban Planning Jens Kvorning, Freddy Degn/Philips, Claus Jensen/ Louis Poulsen, and all the LED Lighting; Interdisciplinary LED Lighting Research project members.
+  The book can be downloaded <a href="http://adaptive.itu.dk/content/3.projects/20150430.LEDlys_Route/Mapping%20CPH%20Street%20Lighting%20(Book%204:4).pdf">here</a>.
+
+legal: 
+ - copyright: # the name of the formal copyright holder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   

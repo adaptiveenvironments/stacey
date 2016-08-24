@@ -1,0 +1,72 @@
+title: Adaptive Lighting # This is a comment
+
+date: 2015-04-30  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Kjell Yngve Petersen
+   mail: kynp@itu.dk
+   role: Associate Professor # eg. Master Student, Advisor, Assistant
+ -
+   name: Jesper Kongshaug
+   mail: kongshaug@gmail.com
+   role: Lighting designer # eg. Master Student, Advisor, Assistant
+ -
+   name: Karin Søndergaard
+   mail: karin.sondergaard@kadk.dk
+   role: Associate Professor # eg. Master Student, Advisor, Assistant
+ - 
+   name: Jens Overbye
+   mail: jov@kadk.dk
+   role: Manager
+ -
+   name: Ole Kristensen
+   mail: olek@itu.dk
+   role: Researcher # eg. Master Student, Advisor, Assistant
+ -
+   name: Imke Wies van Mil
+   mail: IVM@henninglarsen.com
+   role: Lighting designer # eg. Master Student, Advisor, Assistant
+ -
+   name: Cameline Bolbroe
+   mail: camb@itu.dk
+   role: PhD student # eg. Master Student, Advisor, Assistant
+ -
+   name: Karina Munkholm Madsen 
+   mail: user@server.domain
+   role: Researcher # eg. Master Student, Advisor, Assistant
+ -
+   name: Jørn Lambertsen
+   mail: jrnl@itu.dk
+   role: Research assistant # eg. Master Student, Advisor, Assistant
+
+photocredits: Kjell Yngve Petersen, Ole Kristensen, Karin Søndergaard, Imke Wies van Mil, Jesper Kongshaug, Karina Munkholm Madsen
+
+videocredits: Rina de Place Bjørn
+
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - Featured
+ - Research
+ - Adaptation
+ - Lighting
+ - Architecture
+
+summary: | 
+  This project about adaptive lighting is one of four that were conducted as part of the project entitled LED Lighting; Interdisciplinary LED Lighting Research. The research project has been a three-year collaboration between The Royal Danish Academy of Fine Arts; Schools of Architecture, Design and Conservation and The IT University of Copenhagen.
+
+
+abstract: | 
+  The project entails the investigations of lighting scenarios carried out in two test installations: White Cube and White Box. The test installations are discussed as large-scale experiential instruments. In these test installa- tions we examine what could potentially occur when light using LED technology is integrated and distributed differently into an architectural body. We also examine what might occur when light is dynamic and able to change colour, intensity and direction, and when it is adaptive and can be brought into interaction with its surroundings. In short, what happens to an architectural space when artificial lighting ceases to be static, and no longer acts as a kind of spatial constancy maintaining stability and order? Moreover, what new potentials open in lighting design?
+  In connection with the experiential analyses we would like to thank Brian Wendin, Katja Bülow, Christina Augustesen, and Karina Mose for their participation in the experiential interviews. These interviews helped us in representing the challenges and conditions related to the new potentials conditioned by LED technology and the qualitative assessments of the various lighting situations.
+  A copy of the book can be downloaded <a href="http://adaptive.itu.dk/content/3.projects/20150430.LEDlys_Adaptive_Lighting/Adaptive%20Lighting%20(Book%201:4).pdf">here</a>.
+
+
+legal: 
+ - copyright: # the name of the formal copyright holder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   

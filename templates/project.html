@@ -18,11 +18,19 @@
 				<h1>{% for up in page.parent %}<span class="backarrow hidden-phone"><small>&larr; {{ up.nav_all }} </small></span>{% endfor %}{{ page.title }} <small>{{ page.date | date("Y") }}</small></h1>
 			</div>
 			{% for up in page.parent %}</a>{% endfor %}
-				
+			
 			<div class="row">
 				<div class="span8">
+					{% if page.pdf %}
+					    <h6>PDF Downloads</h6>
+					    {% for pdf in page.pdf %}
+					      <p><i class="icon-file"></i> <a href="{{ pdf.url }}">{{ pdf.name }}</a></p>
+					    {% endfor %}
+					    <hr/>
+			      	{% endif %}
 					{% for html in page.html %}
 						{{ html.content }}
+						<p><small class="muted">Video by {{ page.videocredits }}</small></p>
 					{% endfor %}
 					{% if page.images %}
 					<div id="myCarousel" class="carousel slide carousel-fade" style="margin-bottom:4px;">
@@ -46,9 +54,10 @@
 				</div>
 				<div class="span4">
 					<p class="lead"><small>{{ page.materials | join(', ')}}</small></p>
-					<p style="margin-top:30px;"><small>
+					<p style="margin-top:10px;"><small>
 						{% include 'partials/tags.html' %}
-					<br/>&nbsp;</small></p>
+						<hr/>
+					
 					<h5>{{ page.summary }}</h5>
 					{{ page.abstract }}
 					{% if page.url%}<a href="{{ page.homepage }}">{{page.homepage}}</a> {% endif %}</small></p>
@@ -73,18 +82,18 @@
 			</div>
 			<div class="hidden-desktop">
 			{% if page.participants %}
-                                                <hr/>
-                                                <p class="lead"><small>Participants:</small></p>
-                                                <table>
-                                                        <tbody>
-                                                        {% for participant in page.participants %}
-                                                    <tr>
-                                                      <td nowrap="nowrap" valign="top"><small>{{participant.role}}:</small>&nbsp;</td>                                                      <td><small>{{ participant.name }}</small></td>
-                                                    </tr>
-                                                        {% endfor %}
-                                                  </tbody>
-                                                </table>
-                                        {% endif %}
+                    <hr/>
+                    <p class="lead"><small>Participants:</small></p>
+                    <table>
+                            <tbody>
+                            {% for participant in page.participants %}
+                        <tr>
+                          <td nowrap="nowrap" valign="top"><small>{{participant.role}}:</small>&nbsp;</td>                                                      <td><small>{{ participant.name }}</small></td>
+                        </tr>
+                            {% endfor %}
+                      </tbody>
+                    </table>
+            {% endif %}
 			</div>
 			<hr/>
 			<p class="lead"><small>Timeline:</small></p>
@@ -112,14 +121,6 @@
 					</li>
 				</ul>
 			</div>
-			{% if page.pdf %}
-				<hr/>
-			    <h6>PDF Downloads</h6>
-			    {% for pdf in page.pdf %}
-			      <p><i class="icon-file"></i> <a href="{{ pdf.url }}">{{ pdf.name }}</a></p>
-			    {% endfor %}
-			    <hr/>
-	      	{% endif %}
 			{% include 'partials/footer.html' %}
     </body>
 </html>

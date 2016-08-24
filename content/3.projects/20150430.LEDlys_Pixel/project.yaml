@@ -1,0 +1,47 @@
+title: Pixel Experiments # This is a comment
+
+date: 2015-04-30  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+
+participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
+ -
+   name: Christina Augustesen
+   mail: user@server.domain
+   role: Lighting designer # eg. Master Student, Advisor, Assistant
+ -
+   name: Kjell Yngve Petersen
+   mail: user@server.domain
+   role: Associate Professor # eg. Master Student, Advisor, Assistant
+ -
+   name: Ole Kristensen
+   mail: user@server.domain
+   role: Researcher # eg. Master Student, Advisor, Assistant
+ -
+   name: Karin Søndergaard
+   mail: user@server.domain
+   role: Associate Professor # eg. Master Student, Advisor, Assistant
+
+photocredits: Christina Augustesen
+
+videocredits: Rina de Place Bjørn
+
+tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
+ - Research
+ - Featured
+ - Software
+ - Pixels
+
+summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
+  This project about the quality of LED lighting is one of four that were conducted as part of the project entitled LED Lighting; Interdisciplinary LED Lighting Research. The research project has been a three-year collaboration between The Royal Danish Academy of Fine Arts; Schools of Architecture, Design and Conservation and The IT University of Copenhagen.
+
+abstract: | # Max 150 words - is shown on website
+  In this project our interest has been in identifying how the qualities of LEDs can be used in lighting applications. With experiences in the planning and implementation of architectural lighting design in practice, one quickly experiences and realises that there are untapped potentials in the attributes of LED technology. In this research, speculative studies have been made working with the attributes of LEDs in architectural contexts, with the ambition to ascertain new strategies for using LED lighting in lighting design practice. The speculative experiments that have been set-up have aimed to clarify the variables that can be used as parameters in the design of lighting applications; including, for example, the structuring and software control of light. The experiments also elucidate and exemplify already well-known problems in relation to the experience of vertical and horizontal lighting. Pixel Experiments exist as a synergy between speculative test setups and lighting design in practice.
+  The book can be downloaded <a href="http://adaptive.itu.dk/content/3.projects/20150430.LEDlys_Pixel/Pixel%20Experiments%20(Book%203:4).pdf">here</a>.
+
+legal: 
+ - copyright: # the name of the formal copyright holder
+ - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
+ - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   

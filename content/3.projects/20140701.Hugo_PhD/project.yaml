@@ -1,6 +1,6 @@
 title: Design of the Adaptive Built Environment # This is a comment
 
-date: 2014-07-01  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+date: 2014-07-03  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
 
 homepage: http://hugm.wikit.itu.dk
 
@@ -9,12 +9,19 @@ participants: # a list of elements with each three attributes; [name:], [mail:] 
    name: Hugo Mulder
    mail: hugm@itu.dk
    role: PhD Fellow # eg. Master Student, Advisor, Assistant
+ - 
+   name: Kjell Yngve Petersen
+   mail: kynp@itu.dk
+   role: Supervisor
+ - 
+   name: Arup
+   role: Sponsor
    
 photocredits: Hugo Mulder
 
 tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
  - PhD Project
- - Architecture
+ - Kinetic Architecture
  - Engineering
  - Featured
 

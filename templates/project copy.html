@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+
+      	{% include 'partials/head.html' %}
+
+	</head>
+    <body>
+      {% set navbar_inverse=true %}
+      {% include 'partials/navigation/navigation.html' %}
+
+	   	<div class="container">
+			{% for up in page.parent %}<a href="{{up.url}}" class="header">{% endfor %}
+			<div class="page-header">
+				<h1>{% for up in page.parent %}<span class="backarrow hidden-phone"><small>&larr; {{ up.nav_all }} </small></span>{% endfor %}{{ page.title }} <small>{{ page.date | date("Y") }}</small></h1>
+			</div>
+			{% for up in page.parent %}</a>{% endfor %}
+			{% if page.pdf %}
+			    <h6>PDF Downloads</h6>
+			    {% for pdf in page.pdf %}
+			      <p><i class="icon-file"></i> <a href="{{ pdf.url }}">{{ pdf.name }}</a></p>
+			    {% endfor %}
+			    <hr/>
+	      	{% endif %}
+			<div class="row">
+				<div class="span8">
+					{% for html in page.html %}
+						{{ html.content }}
+						<p><small class="muted">Video by {{ page.videocredits }}</small></p>
+					{% endfor %}
+					{% if page.images %}
+					<div id="myCarousel" class="carousel slide carousel-fade" style="margin-bottom:4px;">
+						<!-- Carousel items -->
+						<div class="carousel-inner">
+					  	{% for image in page.images %}
+							<div class="item {% if loop.first %}active{% endif %}">
+								<img src="{{ resize_path( image.url, '1000', '1000', '16:9', 80) }}" alt="{{ image.title }}">
+								{% if image.description %}
+							      <em>{{ image.description }}</em>
+							    {% endif %}
+					   		</div>
+						{% endfor %}
+						</div>
+						<!-- Carousel nav -->
+						<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+						<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+					</div>
+					<p><small class="muted">Photos by {{ page.photocredits }}</small></p>
+					{% endif %}
+				</div>
+				<div class="span4">
+					<p class="lead"><small>{{ page.materials | join(', ')}}</small></p>
+					<p style="margin-top:30px;"><small>
+						{% include 'partials/tags.html' %}
+					<br/>&nbsp;</small></p>
+					<h5>{{ page.summary }}</h5>
+					{{ page.abstract }}
+					{% if page.url%}<a href="{{ page.homepage }}">{{page.homepage}}</a> {% endif %}</small></p>
+
+					<div class="visible-desktop">
+					{% if page.participants %}
+						<hr/>
+						<p class="lead"><small>Participants:</small></p>
+						<table>
+							<tbody>
+							{% for participant in page.participants %}
+						    <tr>
+						      <td nowrap="nowrap" valign="top"><small>{{participant.role}}:</small>&nbsp;</td>
+						      <td><small>{{ participant.name }}</small></td>
+						    </tr>
+							{% endfor %}
+						  </tbody>
+						</table>
+					{% endif %}
+					</div>
+				</div>
+			</div>
+			<div class="hidden-desktop">
+			{% if page.participants %}
+                                                <hr/>
+                                                <p class="lead"><small>Participants:</small></p>
+                                                <table>
+                                                        <tbody>
+                                                        {% for participant in page.participants %}
+                                                    <tr>
+                                                      <td nowrap="nowrap" valign="top"><small>{{participant.role}}:</small>&nbsp;</td>                                                      <td><small>{{ participant.name }}</small></td>
+                                                    </tr>
+                                                        {% endfor %}
+                                                  </tbody>
+                                                </table>
+                                        {% endif %}
+			</div>
+			<hr/>
+			<p class="lead"><small>Timeline:</small></p>
+			<div style="text-align:center;">
+				<hr style="border-style: dotted;margin-top:38px;margin-bottom:-38px;" class="hidden-phone"/>
+				<p style="margin-top:26px;margin-bottom:-48px;" class="hidden-tablet hidden-phone">{{page.title}} <small>{{page.date|date("Y")}}</small></p>		
+				<ul class="pager">
+					<li class="previous{% if page.is_first %} disabled{% endif %}">
+                                	{% for sibling in page.previous_sibling %}
+						{% if page.is_first %}
+						 <a href="#">&larr; No older projects</a>
+						{% else %}
+                                		<a href="{{sibling.url}}">&larr; {{sibling.title}} <small>{{ sibling.date | date("Y") }}</small></a>
+                                		{% endif %}
+					{% endfor %}
+  					</li>
+					<li class="next{% if page.is_last %} disabled{% endif %}">
+                                	{% for sibling in page.next_sibling %}
+                                                {% if page.is_last %}
+                                                 <a href="#">No newer projects &rarr;</a>
+                                                {% else %}
+                                                <a href="{{sibling.url}}">{{sibling.title}} <small>{{ sibling.date | date("Y") }}</small>&rarr;</a>
+                                                {% endif %}
+                                	{% endfor %}
+					</li>
+				</ul>
+			</div>
+			{% include 'partials/footer.html' %}
+    </body>
+</html>
+

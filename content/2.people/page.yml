@@ -113,7 +113,7 @@ content: |
  				   	<br><br>
  				   	Hugo held lectures and assisted architects and engineering students at various schools and universities and has been part of the organisational team of Smartgeometry in 2010, 2011 and 2012.
  				   	<br><br>
- 				   	At the ITU Hugo will conduct research where the fields of design modelling and physical computing touch: the well established practice of Building Information Modelling requires extensions to reach further into the operational phase of buildings and the built environment at the same time lacks the methods and properties that make their digital counterparts rich in searchable and connected information.
+ 				   	At the ITU Hugo is conducting research where the fields of design modelling and physical computing touch: the well established practice of Building Information Modelling requires extensions to reach further into the operational phase of buildings and the built environment at the same time lacks the methods and properties that make their digital counterparts rich in searchable and connected information.
                  </p>
         </div>
  </div>
@@ -167,17 +167,21 @@ content: |
  <p>&nbsp;</p>
  <div class="row">
         <div class="span4">
-                <img src="/render/w-h300-c1:1-q80/2.people/lucb.png" class="featurette-image img-circle pull-right" style="width:200px;">
+                <img src="/render/w-h300-c1:1-q80/2.people/sbak.png" class="featurette-image img-circle pull-right" style="width:200px;">
         </div>
         <div class="span8">
-                <h2>Lucien Bobo</h2>
-                <p class="lead">Intern</p>
+                <h2>Sebastian Hølt Bak</h2>
+                <p class="lead">Research Assistant</p>
                 <address>
                         <strong>Email</strong><br/>
-                        <a href="mailto:lucb@itu.dk">lucb@itu.dk</a><br/>
+                        <a href="mailto:sbak@itu.dk">sbak@itu.dk</a><br/>
                 </address>
                 <p class="muted">
-                Lucien is a guest researcher at Adaptive Environments for the year 2014/15. This year takes place between the first and the second years of his master’s degree. He is a former student of IUT de Cachan and École Normale Supérieure de Cachan, in Paris area, where he was studying Electrical Engineering. At Æ, he is working on the behavorial aesthetics of adaptive lighting setups.
+ 				With a thesis concerning adaptive architecture at ITU and a background in philosophy at the University of Copenhagen, Sebastian is experienced in human-technology relations and interdisciplinary investigations. At the Adaptive Environments Research Institute, Sebastian is developing research projects and concepts pertaining to Adaptive Environments and Adaptive Lighting – the latter being an area of research, which he is in the process of applying grants for (PhD, 2016).
+ 			   	<br><br>
+ 				Sebastian is currently writing on the relation between architecture, phenomenology and artificial life. Other research interests furthermore include evolutionary robotics, adaptive environments, ecophenomenology, Internet of things, human-computer interaction, generative art etc.
+ 			   	<br><br>
+ 				At ITU he is furthermore involved in teaching at the course ‘Creative Digital Practice’, which is part of the Digital Design masters programme.
                 </p>
         </div>
  </div>

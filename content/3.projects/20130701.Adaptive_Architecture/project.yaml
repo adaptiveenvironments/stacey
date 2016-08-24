@@ -1,16 +1,24 @@
 title: Adaptive Architecture # This is a comment
 
-date: 2013-07-01  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
+date: 2013-09-01  # Year-Month-Date, eg. january 3rd 2004 = 2004-01-03
 
-homepage: https://adaptive-architecture.wikit.itu.dk/home
+homepage: 
 
 participants: # a list of elements with each three attributes; [name:], [mail:] and [role:]
  -
    name: Cameline Bolbroe
    mail: camb@itu.dk
    role: PhD Fellow # eg. Master Student, Advisor, Assistant
+ -
+   name: Kjell Yngve Petersen
+   mail: kynp@itu.dk
+   role: Supervisor # eg. Master Student, Advisor, Assistant
+ -
+   name: Jørn Lambertsen
+   mail: jrnl@itu.dk
+   role: Research Assistant # eg. Master Student, Advisor, Assistant
 
-photocredits: Cameline Bolbroe
+photocredits: Cameline Bolbroe and Rina De Place Bjørn
 
 tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and terms like Master Thesis, and general concepts and themes like eg. Food or Governance
  - PhD Project
@@ -18,12 +26,20 @@ tags: # relevant keywords. We want to use ITU course codes eg. DCDP-2013E and te
  - Featured
 
 summary: | # Max 50 words - is shown on website and screen presentations (eg. the Atrium Displays) All paragraphs start with two white-spaces.
-  Practice-based research in architecture provisioned with software that has the capability to modify to change in the environment and incorporate new parameters from the environment. As new architectural design practices emerging from this development, what are the implications this has on the built environment and our spatial experiences?
+  Adaptive Architecture is an explorative and practice-based Ph.D project. The aim is to support a new form of architectural design literacy by exploring, discussing and developing concepts of adaptivity in architecture.  The research involves production of full-scale experiential prototypes in order to focus on human-centric experiential qualities in relation to information technology in architecture.
 
 abstract: | # Max 150 words - is shown on website
+  This Ph.D project pursues the development of an architectural literacy concerning adaptivity, from a speculative practice-based position. The Ph.D. project takes it point of departure in recent developments in architectural practice, which increasingly encompasses qualities derived from computational advancements in architectural design. These computational advancements have prompted a concept of an adaptive architecture. The embracing of computing and sensor technologies into our lived spaces not only challenge the role of the architect and the practice of architects but also changes how inhabitants experience and interact with spatial environments.  
+  Consequently it is relevant to ask how we can frame these experiential qualities and how the experiences feed back into the design of adaptive spaces. 
+
+  Through a series of design experiments with full-scale adaptive prototypes, the Ph.D project seeks to form concepts and create tools, contributing to the establishment of an adaptive architectural literacy.  
+ 
+  Project period: September 1st 2013 – September 1st 2016
+
+
 
 legal: 
- - copyright: # the name of the formal copyright holder
+ - copyright: Cameline Bolbroe
  - cc-url: http://creativecommons.org/licenses/by/4.0/ # any valid url to a creative commons licence is encouraged, or you can paste in a raw text of an alternative licence below.
  - non-cc-license-text: | # put the full raw licence if not a creative commons below, eg the MIT licence
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
