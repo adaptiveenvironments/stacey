@@ -152,7 +152,7 @@
 		
 			// VIDEO resizing
 			
-			    var $allVideos = $("iframe[src*='//player.vimeo.com'], iframe[src*='//www.youtube.com'], iframe.video, object, embed");
+			    var $allVideos = $("iframe[src*='//player.vimeo.com'], iframe[src*='//www.youtube.com'], iframe[src*='//itu.23video.com'], iframe.video, object, embed");
 				    	
 				$allVideos.each(function() {
 				
